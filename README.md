@@ -1,4 +1,4 @@
-## This is a MERN Porject
+## This is a MERN project
 
 **This is MERN project named food delivery. It has 3 platforms: 🔗[Frontend](https://food-delivery-frontend-8kro.onrender.com), 🔗[Backend](https://github.com/bigliuliu/food-delivery/tree/main/backend), 🔗[Admin](https://food-delivery-admin-o41w.onrender.com)**
 
