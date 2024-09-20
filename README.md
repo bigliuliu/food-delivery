@@ -29,3 +29,4 @@
 - Express.js
 - Toast
 - Stripe
+- Vite
